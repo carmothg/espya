@@ -34,7 +34,7 @@ A Espya é uma API HTTP com metódos GET nas seguintes rotas:
 ## URL
 
 ```bash
-https://XXXXXXXXXXX.execute-api.sa-east-1.amazonaws.com/espya
+https://h230kzse0b.execute-api.sa-east-1.amazonaws.com/teste
 ```
 
 ## Basic Authentication
