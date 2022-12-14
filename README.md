@@ -9,22 +9,19 @@ A API Espya foi desenvolvida como instrumento de avaliação para trabalho de co
 
 ## Arquitetura do trabalho
 A API foi desenvolvida utilizando serviços da AWS com o intuito de torna-la servless. Para isso utilizou-se os serviços API Gateway e AWS Lambda. Para a análise dos dados foi utilizado Linguaguem Python e as querysdsl do elasticsearch. 
-
-## Estrutura da API
 As funções funções lambdas utilizads na AWS estão disponiveis neste repositório e são invocadas através da URL descrita na seçao abaixo. 
 
-
 # Tecnologias utilizadas
-## API
+## Arquitetura API
 - Lambda Functions
 - API Gateway
 - IAM
 - Cognito
-## Código
+## Código para análise dos dados
 - Python
 - Biblioteca elasticsearch
 - Biblioteca json
-- Google Collab
+- Google Colab
 - Postman
 
 # Como acessar a API
